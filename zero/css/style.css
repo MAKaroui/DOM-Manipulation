@@ -1,0 +1,12 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#submit{
+    background-color:green ;
+    font-weight: 700;
+    border:solid 2px darkblue;
+}
+#submit:hover{
+    background-color: darkgray;
+    color: darkred;
+}
